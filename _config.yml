@@ -1,0 +1,20 @@
+title: Keep Anaheim Accountable
+author: keepanaheimaccountable.com
+email: respectanaheimresidents@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  "Keep Anaheim Accountable" is your digital watchdog ensuring accountability
+  and transparency in the City of Anaheim. Our goal is to keep local officials
+  accountable and ensure their actions adhere to the law.  We believe in the
+  power of citizen engagement and the importance of an informed and active
+  community.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://keepanaheimaccountable.com"
+permalink: pretty
+theme: minima
+show_excerpts: true
+plugins:
+  - jekyll-feed
+exclude:
+- Gemfile
+- Gemfile.lock
+- vendor/
