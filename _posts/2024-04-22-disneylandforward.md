@@ -1,6 +1,6 @@
 ---
 author: Adriana P.-R.
-categories: DisneylandForward
+categories: disneyland-forward public-comment
 date: 2024-04-22
 layout: post
 source: "https://records.anaheim.net/CityClerk/DocView.aspx?id=5204070"

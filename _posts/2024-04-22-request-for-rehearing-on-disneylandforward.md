@@ -1,5 +1,5 @@
 ---
-categories: DisneylandForward MagicWay
+categories: disneyland-forward official-document
 date: 2024-04-22
 layout: post
 title: Request for rehearing on DisneylandForward

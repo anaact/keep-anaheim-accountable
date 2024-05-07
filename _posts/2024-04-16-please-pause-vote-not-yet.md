@@ -1,6 +1,6 @@
 ---
 author: Nadia M.
-categories: DisneylandForward
+categories: disneyland-forward public-comment
 date: 2024-04-16
 layout: post
 source: "https://records.anaheim.net/CityClerk/DocView.aspx?id=5204066"

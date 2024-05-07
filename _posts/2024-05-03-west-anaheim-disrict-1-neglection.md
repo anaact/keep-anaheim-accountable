@@ -1,6 +1,6 @@
 ---
 author: Jodie M.
-categories: DisneylandForward neglection
+categories: disneyland-forward public-comment
 date: 2024-05-03
 layout: post
 source: "https://records.anaheim.net/CityClerk/DocView.aspx?id=5204082"

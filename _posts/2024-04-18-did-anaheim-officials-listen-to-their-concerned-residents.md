@@ -1,5 +1,5 @@
 ---
-categories: DisneylandForward video
+categories: disneyland-forward video
 date: 2024-04-18
 excerpt_separator: "`<!--more-->`{=html}"
 layout: post
