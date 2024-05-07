@@ -1,7 +1,7 @@
 ---
 categories: disneyland-forward video
 date: 2024-04-18
-excerpt_separator: "`<!--more-->`{=html}"
+excerpt_separator: "<!--more-->"
 layout: post
 title: Did Anaheim elected officials LISTEN to their concerned
   residents? You decide!
