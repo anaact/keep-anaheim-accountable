@@ -12,10 +12,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://keepanaheimaccountable.com"
 permalink: pretty
 theme: minima
-show_excerpts: true
 header_pages:
   - official-documents.md
   - public-comments.md
+  - photos.md
   - videos.md
 plugins:
   - jekyll-feed

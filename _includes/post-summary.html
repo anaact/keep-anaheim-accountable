@@ -11,9 +11,23 @@
       {{ include.post.title | escape }}
     </a>
   </h3>
-  {%- if site.show_excerpts -%}
+  {%- if post.gallery -%}
+    <div id="image-gallery" class="image-gallery">
+      <div id="gallery-sizer" class="gallery-sizer"></div>
+      {% assign gallery = site.data.galleries[post.gallery] %}
+      {% assign picture = gallery.pictures[0] %}
+      <div class="image-wrapper">
+        <a href="/assets/{{ gallery.picture_path }}/{{ picture.original }}"
+        data-responsive="{% for size in picture.sizes %} /assets/{{ gallery.picture_path }}/{{ size }} {{ size | split: '-' | last | split: '.' | first | split: 'x' | first | strip }}{% unless forloop.last %},{% endunless %}{% endfor %}" class="image"
+        {% if picture.title %} data-sub-html="<div class='lg-toolbar caption'><h4>{{ picture.title | escape }}</h4>{% if picture.caption %}<p>{{ picture.caption | escape }}</p>{% endif %}</div>"{% endif %}>
+          <img alt="{{ picture.title }}" src="/assets/{{ gallery.picture_path }}/{{ picture.thumbnail }}" />
+        </a>
+      </div>
+    </div>
+    <a href="{{ include.post.url | relative_url }}">[Gallery with {{ gallery.pictures.size }} photos]</a>
+  {%- else -%}
     {{ include.post.excerpt }}
+    <a href="{{ include.post.url | relative_url }}">[more]</a>
   {%- endif -%}
-  <a href="{{ include.post.url | relative_url }}">[more]</a>
 </li>
 

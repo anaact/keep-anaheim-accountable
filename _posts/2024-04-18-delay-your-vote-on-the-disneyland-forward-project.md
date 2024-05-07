@@ -3,7 +3,7 @@ author: Abigail H.
 categories: disneyland-forward public-comment
 date: 2024-04-18
 layout: post
-source: "https://records.anaheim.net/CityClerk/DocView.aspx?id=5204068&dbid=0&repo=CITYOFANAHEIM"
+source: "https://records.anaheim.net/CityClerk/DocView.aspx?id=5204068"
 title: Delay Your Vote on the Disneyland Forward Project
 ---
 
