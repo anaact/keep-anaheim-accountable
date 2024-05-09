@@ -27,6 +27,10 @@ layout: default
     {{ content }}
   </div>
 
+  {% if page.source %}
+  <p><a href="{{page.source}}" target="_blank">source</a>
+  {% endif %}
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}

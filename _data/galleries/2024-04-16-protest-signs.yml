@@ -1,0 +1,52 @@
+picture_path: 2024-04-16-protest-signs
+pictures:
+- filename: protest-sign-1
+  original: protest-sign-1-2100x1575.jpg
+  sizes:
+  - protest-sign-1-1200x900.jpg
+  - protest-sign-1-1500x1125.jpg
+  - protest-sign-1-1800x1350.jpg
+  - protest-sign-1-300x225.jpg
+  - protest-sign-1-600x450.jpg
+  - protest-sign-1-900x675.jpg
+  thumbnail: protest-sign-1-900x675.jpg
+- filename: protest-sign-2
+  original: protest-sign-2-2100x1575.jpg
+  sizes:
+  - protest-sign-2-1200x900.jpg
+  - protest-sign-2-1500x1125.jpg
+  - protest-sign-2-1800x1350.jpg
+  - protest-sign-2-300x225.jpg
+  - protest-sign-2-600x450.jpg
+  - protest-sign-2-900x675.jpg
+  thumbnail: protest-sign-2-900x675.jpg
+- filename: protest-sign-3
+  original: protest-sign-3-2100x2800.jpg
+  sizes:
+  - protest-sign-3-1200x1600.jpg
+  - protest-sign-3-1500x2000.jpg
+  - protest-sign-3-1800x2400.jpg
+  - protest-sign-3-300x400.jpg
+  - protest-sign-3-600x800.jpg
+  - protest-sign-3-900x1200.jpg
+  thumbnail: protest-sign-3-900x1200.jpg
+- filename: protest-sign-4
+  original: protest-sign-4-2100x2800.jpg
+  sizes:
+  - protest-sign-4-1200x1600.jpg
+  - protest-sign-4-1500x2000.jpg
+  - protest-sign-4-1800x2400.jpg
+  - protest-sign-4-300x400.jpg
+  - protest-sign-4-600x800.jpg
+  - protest-sign-4-900x1200.jpg
+  thumbnail: protest-sign-4-900x1200.jpg
+- filename: protest-sign-5
+  original: protest-sign-5-2100x2800.jpg
+  sizes:
+  - protest-sign-5-1200x1600.jpg
+  - protest-sign-5-1500x2000.jpg
+  - protest-sign-5-1800x2400.jpg
+  - protest-sign-5-300x400.jpg
+  - protest-sign-5-600x800.jpg
+  - protest-sign-5-900x1200.jpg
+  thumbnail: protest-sign-5-900x1200.jpg
