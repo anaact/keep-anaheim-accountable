@@ -11,6 +11,7 @@
       {{ include.post.title | escape }}
     </a>
   </h3>
+  {{ include.post.excerpt }}
   {%- if post.gallery -%}
     <div id="image-gallery" class="image-gallery">
       <div id="gallery-sizer" class="gallery-sizer"></div>
@@ -26,8 +27,7 @@
     </div>
     <a href="{{ include.post.url | relative_url }}">[Gallery with {{ gallery.pictures.size }} photos]</a>
   {%- else -%}
-    {{ include.post.excerpt }}
-    <a href="{{ include.post.url | relative_url }}">[more]</a>
+    <a href="{{ include.post.url | relative_url }}">[More]</a>
   {%- endif -%}
 </li>
 
