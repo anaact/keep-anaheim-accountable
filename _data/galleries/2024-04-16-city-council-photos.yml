@@ -8,7 +8,7 @@ pictures:
   - reverse-01-300x169.png
   - reverse-01-600x338.png
   - reverse-01-900x506.png
-  thumbnail: reverse-01-900x506.png
+  thumbnail: reverse-01-300x169.png
 - filename: reverse-02
   original: reverse-02-1800x1013.png
   sizes:
@@ -17,7 +17,7 @@ pictures:
   - reverse-02-300x169.png
   - reverse-02-600x338.png
   - reverse-02-900x506.png
-  thumbnail: reverse-02-900x506.png
+  thumbnail: reverse-02-300x169.png
 - filename: reverse-03
   original: reverse-03-1800x1013.png
   sizes:
@@ -26,7 +26,7 @@ pictures:
   - reverse-03-300x169.png
   - reverse-03-600x338.png
   - reverse-03-900x506.png
-  thumbnail: reverse-03-900x506.png
+  thumbnail: reverse-03-300x169.png
 - filename: reverse-04
   original: reverse-04-1800x1013.png
   sizes:
@@ -35,7 +35,7 @@ pictures:
   - reverse-04-300x169.png
   - reverse-04-600x338.png
   - reverse-04-900x506.png
-  thumbnail: reverse-04-900x506.png
+  thumbnail: reverse-04-300x169.png
 - filename: reverse-05
   original: reverse-05-1800x1013.png
   sizes:
@@ -44,7 +44,7 @@ pictures:
   - reverse-05-300x169.png
   - reverse-05-600x338.png
   - reverse-05-900x506.png
-  thumbnail: reverse-05-900x506.png
+  thumbnail: reverse-05-300x169.png
 - filename: reverse-06
   original: reverse-06-1800x1013.png
   sizes:
@@ -53,7 +53,7 @@ pictures:
   - reverse-06-300x169.png
   - reverse-06-600x338.png
   - reverse-06-900x506.png
-  thumbnail: reverse-06-900x506.png
+  thumbnail: reverse-06-300x169.png
 - filename: reverse-07
   original: reverse-07-1800x1013.png
   sizes:
@@ -62,7 +62,7 @@ pictures:
   - reverse-07-300x169.png
   - reverse-07-600x338.png
   - reverse-07-900x506.png
-  thumbnail: reverse-07-900x506.png
+  thumbnail: reverse-07-300x169.png
 - filename: reverse-08
   original: reverse-08-1800x1013.png
   sizes:
@@ -71,7 +71,7 @@ pictures:
   - reverse-08-300x169.png
   - reverse-08-600x338.png
   - reverse-08-900x506.png
-  thumbnail: reverse-08-900x506.png
+  thumbnail: reverse-08-300x169.png
 - filename: reverse-09
   original: reverse-09-1800x1013.png
   sizes:
@@ -80,7 +80,7 @@ pictures:
   - reverse-09-300x169.png
   - reverse-09-600x338.png
   - reverse-09-900x506.png
-  thumbnail: reverse-09-900x506.png
+  thumbnail: reverse-09-300x169.png
 - filename: reverse-10
   original: reverse-10-1800x1013.png
   sizes:
@@ -89,4 +89,4 @@ pictures:
   - reverse-10-300x169.png
   - reverse-10-600x338.png
   - reverse-10-900x506.png
-  thumbnail: reverse-10-900x506.png
+  thumbnail: reverse-10-300x169.png
