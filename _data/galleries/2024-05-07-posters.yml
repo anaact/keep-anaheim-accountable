@@ -1,0 +1,29 @@
+picture_path: 2024-05-07-posters
+pictures:
+- filename: mickey-mouse-magic-way
+  original: mickey-mouse-magic-way-2100x2520.jpg
+  sizes:
+  - mickey-mouse-magic-way-1200x1440.jpg
+  - mickey-mouse-magic-way-1500x1800.jpg
+  - mickey-mouse-magic-way-1800x2160.jpg
+  - mickey-mouse-magic-way-600x720.jpg
+  - mickey-mouse-magic-way-900x1080.jpg
+  thumbnail: mickey-mouse-magic-way-600x720.jpg
+- filename: public-comment-lost-to-private-chat
+  original: public-comment-lost-to-private-chat-2100x1750.jpg
+  sizes:
+  - public-comment-lost-to-private-chat-1200x1000.jpg
+  - public-comment-lost-to-private-chat-1500x1250.jpg
+  - public-comment-lost-to-private-chat-1800x1500.jpg
+  - public-comment-lost-to-private-chat-600x500.jpg
+  - public-comment-lost-to-private-chat-900x750.jpg
+  thumbnail: public-comment-lost-to-private-chat-600x500.jpg
+- filename: stop-selling-public-land
+  original: stop-selling-public-land-2100x1750.jpg
+  sizes:
+  - stop-selling-public-land-1200x1000.jpg
+  - stop-selling-public-land-1500x1250.jpg
+  - stop-selling-public-land-1800x1500.jpg
+  - stop-selling-public-land-600x500.jpg
+  - stop-selling-public-land-900x750.jpg
+  thumbnail: stop-selling-public-land-600x500.jpg
